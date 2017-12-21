@@ -153,6 +153,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [yolpo](http://www.yolpo.com) - A statement-by-statement javascript interpreter in the browser.
+* [logrocket](https://github.com/logrocket) - Record and replay user sessions to fix bugs faster.
 
 
 ## QA Tools
@@ -275,6 +276,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 * [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+* [mo.js](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
@@ -689,6 +691,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
+* [Napajs](https://github.com/Microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime built on V8 by Microsoft.
 
 
 ## Tips
